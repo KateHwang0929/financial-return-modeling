@@ -1,6 +1,6 @@
 # Financial Return Modeling
 
-This repository contains the code implementation for my research project: **Evaluating the Accuracy of LSTM Neural Networks and Linear Regression for Microsoft Stock Prediction**
+This repository contains the code implementation for my research project: **Evaluating the Accuracy of LSTM Neural Networks and Linear Regression for Stock Prediction**
 
 The project compares a traditional machine learning model  (Linear Regression)  with a deep learning model (Long Short-Term Memory) to evaluate their performance in predicting Microsoft stock returns using historical market data.
 
