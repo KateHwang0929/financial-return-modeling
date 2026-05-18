@@ -17,7 +17,7 @@ The project uses historical MSFT stock data downloaded from Yahoo Finance and ap
 
 ## Research Question
 
-Can an LSTM neural network predict Microsoft stock returns more accurately than a Linear Regression model?
+Can an LSTM neural network predict stock returns more accurately than a Linear Regression model?
 
 ## Models Compared
 
